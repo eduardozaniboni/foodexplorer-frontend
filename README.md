@@ -9,8 +9,8 @@ O Food Explorer é uma aplicação completa de ponta a ponta, com front-end e ba
 Existem duas personas principais no Food Explorer: o admin e o usuário.
 
 ### Usuário e Login para acesso:
-User: admin@foodexplorer.com
-Password: 123456
+<p>User: admin@foodexplorer.com</p>
+<p>Password: 123456</p>
 
 ### Funcionalidades do Admin:
 
